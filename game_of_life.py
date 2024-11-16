@@ -3,7 +3,7 @@ import random
 import time
 from collections import defaultdict
 
-# Parameters
+#parameters
 GRID_WIDTH, GRID_HEIGHT = 1_000_000, 1_000_000  #grid size
 CELL_SIZE = 2
 VIEWPORT_WIDTH, VIEWPORT_HEIGHT = 500, 400  #size of the viewport in cells
